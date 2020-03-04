@@ -43,7 +43,13 @@
         each class has a separate environment (no collision on function names)
         inheritance allows subclasses to redefine or extend a selected subset of a superclass' nehavior
 
-
+4. What are Attributes:
+    - Data and procedures that "belong" to the class
+    - Data attributes:
+        think of data as other objects that make up the class;
+        for example, a coordinate is made up of two numbers
+    - Procedure attributes (methods)
+        
 
 =====================================================================================================================================
 
